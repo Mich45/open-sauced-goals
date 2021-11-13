@@ -1,21 +1,21 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 541,
+    "stargazers_count": 544,
     "open_issues_count": 25,
-    "forks_count": 151
+    "forks_count": 154
   },
   {
     "full_name": "jdesboeufs/connect-mongo",
     "stargazers_count": 1829,
     "open_issues_count": 7,
-    "forks_count": 340
+    "forks_count": 338
   },
   {
     "full_name": "jamiebuilds/the-super-tiny-compiler",
-    "stargazers_count": 21139,
+    "stargazers_count": 21160,
     "open_issues_count": 17,
-    "forks_count": 2276
+    "forks_count": 2282
   },
   {
     "full_name": "cpojer/js-codemod",
@@ -25,75 +25,75 @@
   },
   {
     "full_name": "expressjs/express",
-    "stargazers_count": 54921,
+    "stargazers_count": 54940,
     "open_issues_count": 176,
-    "forks_count": 9277
+    "forks_count": 9285
   },
   {
     "full_name": "expressjs/expressjs.com",
-    "stargazers_count": 4173,
+    "stargazers_count": 4177,
     "open_issues_count": 56,
-    "forks_count": 1129
+    "forks_count": 1128
   },
   {
     "full_name": "facebook/jest",
-    "stargazers_count": 37036,
-    "open_issues_count": 1654,
-    "forks_count": 5438
+    "stargazers_count": 37057,
+    "open_issues_count": 1658,
+    "forks_count": 5442
   },
   {
     "full_name": "freeCodeCamp/devdocs",
-    "stargazers_count": 26940,
-    "open_issues_count": 131,
-    "forks_count": 1812
+    "stargazers_count": 26969,
+    "open_issues_count": 132,
+    "forks_count": 1808
   },
   {
     "full_name": "piotrwitek/react-redux-typescript-guide",
-    "stargazers_count": 11554,
+    "stargazers_count": 11562,
     "open_issues_count": 36,
     "forks_count": 868
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 123815,
-    "open_issues_count": 5169,
-    "forks_count": 20650
+    "stargazers_count": 123962,
+    "open_issues_count": 5200,
+    "forks_count": 20661
   },
   {
     "full_name": "okonet/lint-staged",
-    "stargazers_count": 9346,
+    "stargazers_count": 9357,
     "open_issues_count": 112,
     "forks_count": 343
   },
   {
     "full_name": "k88hudson/git-flight-rules",
-    "stargazers_count": 38024,
+    "stargazers_count": 38039,
     "open_issues_count": 14,
-    "forks_count": 2869
+    "forks_count": 2872
   },
   {
     "full_name": "sahat/hackathon-starter",
-    "stargazers_count": 32438,
+    "stargazers_count": 32441,
     "open_issues_count": 46,
-    "forks_count": 7466
+    "forks_count": 7469
   },
   {
     "full_name": "remix-run/react-router",
-    "stargazers_count": 44627,
-    "open_issues_count": 62,
-    "forks_count": 8625
+    "stargazers_count": 44698,
+    "open_issues_count": 67,
+    "forks_count": 8643
   },
   {
     "full_name": "microsoft/TypeScript-React-Starter",
-    "stargazers_count": 10827,
+    "stargazers_count": 10828,
     "open_issues_count": 203,
-    "forks_count": 1146
+    "forks_count": 1145
   },
   {
     "full_name": "DefinitelyTyped/DefinitelyTyped",
-    "stargazers_count": 36568,
-    "open_issues_count": 733,
-    "forks_count": 26084
+    "stargazers_count": 36613,
+    "open_issues_count": 721,
+    "forks_count": 26110
   },
   {
     "full_name": "KaterinaLupacheva/my-projects-dashboard",
@@ -103,79 +103,79 @@
   },
   {
     "full_name": "malgamves/CommunityWriterPrograms",
-    "stargazers_count": 1382,
+    "stargazers_count": 1390,
     "open_issues_count": 12,
-    "forks_count": 226
+    "forks_count": 228
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 67512,
-    "open_issues_count": 123,
-    "forks_count": 4942
+    "stargazers_count": 67720,
+    "open_issues_count": 119,
+    "forks_count": 4948
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 75771,
-    "open_issues_count": 5339,
-    "forks_count": 9900
+    "stargazers_count": 75832,
+    "open_issues_count": 5343,
+    "forks_count": 9913
   },
   {
     "full_name": "up-for-grabs/up-for-grabs.net",
-    "stargazers_count": 2401,
-    "open_issues_count": 40,
-    "forks_count": 1173
+    "stargazers_count": 2402,
+    "open_issues_count": 37,
+    "forks_count": 1172
   },
   {
     "full_name": "tailwindlabs/tailwindcss-intellisense",
-    "stargazers_count": 1464,
+    "stargazers_count": 1468,
     "open_issues_count": 47,
-    "forks_count": 89
+    "forks_count": 90
   },
   {
     "full_name": "tailwindlabs/tailwindcss",
-    "stargazers_count": 48916,
-    "open_issues_count": 61,
-    "forks_count": 2297
+    "stargazers_count": 49041,
+    "open_issues_count": 62,
+    "forks_count": 2306
   },
   {
     "full_name": "yangshun/tech-interview-handbook",
-    "stargazers_count": 60724,
+    "stargazers_count": 60799,
     "open_issues_count": 7,
-    "forks_count": 8467
+    "forks_count": 8476
   },
   {
     "full_name": "postcss/postcss",
-    "stargazers_count": 25395,
+    "stargazers_count": 25417,
     "open_issues_count": 16,
-    "forks_count": 1417
+    "forks_count": 1422
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 75533,
-    "open_issues_count": 467,
-    "forks_count": 29537
+    "stargazers_count": 75746,
+    "open_issues_count": 465,
+    "forks_count": 29576
   },
   {
     "full_name": "testjavascript/nodejs-integration-tests-best-practices",
-    "stargazers_count": 1423,
+    "stargazers_count": 1431,
     "open_issues_count": 42,
     "forks_count": 71
   },
   {
     "full_name": "swisskyrepo/PayloadsAllTheThings",
-    "stargazers_count": 31843,
-    "open_issues_count": 16,
-    "forks_count": 8703
+    "stargazers_count": 31910,
+    "open_issues_count": 17,
+    "forks_count": 8736
   },
   {
     "full_name": "prisma/prisma-examples",
-    "stargazers_count": 2918,
+    "stargazers_count": 2925,
     "open_issues_count": 79,
-    "forks_count": 727
+    "forks_count": 729
   },
   {
     "full_name": "tediko/planets-fact",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 0,
     "forks_count": 13
   }
